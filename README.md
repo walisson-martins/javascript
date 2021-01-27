@@ -4,3 +4,33 @@ instanciar e iniciar o browserSync =>  browser-sync start -s -f . --directory   
 
 
 Link de regex com javascript: https://regexlib.com/Search.aspx?k=password&c=-1&m=-1&ps=20 --> buscar patterns
+
+
+Links úteis
+
+
+Git
+
+git - guia prático
+git - documentacao
+
+
+
+Web services Java e Jersey
+
+WebService
+
+
+
+HTML/CSS e Javascript
+
+Tudo sobre Javascript, HTML e CSS
+HTML
+CSS
+Javascript
+bootstrap
+W3 Bootstrap
+
+Vue JS - Uma lib JS baseada em Angular porém mais simples.
+
+Axio - Lib JS recomendada para Vue JS para simplificar XMLHttpRequest
