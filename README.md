@@ -11,26 +11,26 @@ Links úteis
 
 Git
 
-git - guia prático
-git - documentacao
+git - guia prático http://rogerdudler.github.io/git-guide/index.pt_BR.html
+git - documentacao https://git-scm.com/book/pt-pt/v2
 
 
 
 Web services Java e Jersey
 
-WebService
+WebService https://www.ibm.com/developerworks/web/library/wa-aj-tomcat/
 
 
 
 HTML/CSS e Javascript
 
-Tudo sobre Javascript, HTML e CSS
-HTML
-CSS
-Javascript
-bootstrap
-W3 Bootstrap
+Tudo sobre Javascript, HTML e CSS https://www.w3schools.com/whatis/
+HTML https://www.w3schools.com/html/default.asp
+CSS https://www.w3schools.com/css/default.asp
+Javascript https://www.w3schools.com/js/default.asp
+bootstrap https://getbootstrap.com/
+W3 Bootstrap  https://www.w3schools.com/bootstrap/default.asp
+ 
+Vue JS - Uma lib JS baseada em Angular porém mais simples. https://vuejs.org/
 
-Vue JS - Uma lib JS baseada em Angular porém mais simples.
-
-Axio - Lib JS recomendada para Vue JS para simplificar XMLHttpRequest
+Axio - Lib JS recomendada para Vue JS para simplificar XMLHttpRequest https://vuejs.org/v2/cookbook/using-axios-to-consume-apis.html
