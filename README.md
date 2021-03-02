@@ -36,3 +36,6 @@ W3 Bootstrap  https://www.w3schools.com/bootstrap/default.asp
 Vue JS - Uma lib JS baseada em Angular porém mais simples. https://vuejs.org/
 
 Axio - Lib JS recomendada para Vue JS para simplificar XMLHttpRequest https://vuejs.org/v2/cookbook/using-axios-to-consume-apis.html
+
+
+RXJS - Angular com reactiveX -> https://github.com/alura-cursos/alura_angular_rxjs_1/tree/aula_4
